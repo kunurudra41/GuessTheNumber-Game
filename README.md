@@ -2,6 +2,8 @@
 
 A simple, interactive browser-based game where players try to guess a randomly generated number within a limited number of attempts. The game provides feedback ("Too High" or "Too Low") to guide the player, and displays a congratulatory message or a "Game Over" popup based on the outcome.
 
+currently live at :[Can You Guess The Number?](https://can-you-guessthe-number.netlify.app/)
+
 ## Features
 - Random number generation between 1 and 100.
 - Dynamic feedback for player guesses.
@@ -21,7 +23,7 @@ A simple, interactive browser-based game where players try to guess a randomly g
    - You run out of attempts.
 6. A popup will show your result (win or loss). Click "Play Again" to restart.
 
-## Demo
+## Game
 Play the live game here: [Can You Guess the Number Game](https://can-you-guessthe-number.netlify.app/)  
 
 ## Installation
@@ -31,7 +33,7 @@ To run the game locally:
    git clone https://github.com/kunurudra41/GuessTheNumber-Game.git
    cd GuessTheNumber-Game
 
-   guess-the-number/
+guess-the-number/
 ├── index.html       # The main HTML file
 ├── style.css        # Stylesheet for the game
 ├── script.js        # JavaScript logic for the game
