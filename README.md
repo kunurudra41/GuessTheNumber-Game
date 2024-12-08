@@ -22,8 +22,7 @@ A simple, interactive browser-based game where players try to guess a randomly g
 6. A popup will show your result (win or loss). Click "Play Again" to restart.
 
 ## Demo
-Play the live game here: [Can You Guess the Number Game](https://kunurudra41.github.io/guess-the-number)  
-*(https://can-you-guessthe-number.netlify.app/)*
+Play the live game here: [Can You Guess the Number Game](https://can-you-guessthe-number.netlify.app/)  
 
 ## Installation
 To run the game locally:
