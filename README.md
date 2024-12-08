@@ -23,7 +23,7 @@ currently live at :[Can You Guess The Number?](https://can-you-guessthe-number.n
    - You run out of attempts.
 6. A popup will show your result (win or loss). Click "Play Again" to restart.
 
-## Game
+## DEMO
 Play the live game here: [Can You Guess the Number Game](https://can-you-guessthe-number.netlify.app/)  
 
 ## Installation
