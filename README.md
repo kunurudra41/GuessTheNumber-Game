@@ -22,7 +22,7 @@ A simple, interactive browser-based game where players try to guess a randomly g
 6. A popup will show your result (win or loss). Click "Play Again" to restart.
 
 ## Demo
-Play the live game here: [Guess the Number Game](https://your-username.github.io/guess-the-number)  
+Play the live game here: [Can You Guess the Number Game](https://your-username.github.io/guess-the-number)  
 *(Replace with the actual live link once hosted)*
 
 ## Installation
@@ -54,6 +54,6 @@ To run the game locally:
 10. **Contribution**: Instructions for developers to contribute to the project.
 11. **License**: Information about licensing.
 
-Replace placeholders like `your-username` or `assets/screenshot.png` with your actual GitHub username and file paths.
+Replace placeholders like `kunurudra41` or `assets/screenshot.png` with your actual GitHub username and file paths.
 
 Let me know if you need help customizing further!
