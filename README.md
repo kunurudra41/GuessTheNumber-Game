@@ -52,7 +52,4 @@ To run the game locally:
 9. **Future Features**: Suggests improvements to engage contributors.
 10. **Contribution**: Instructions for developers to contribute to the project.
 11. **License**: Information about licensing.
-
-Replace placeholders like `kunurudra41` or `assets/screenshot.png` with your actual GitHub username and file paths.
-
-Let me know if you need help customizing further!
+`kunurudra41`
